@@ -47,7 +47,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Building Raft apps
 
-- [create-raft-app](https://github.com/botiverse/create-raft-app) - Scaffold Raft apps with Login with Raft, agent manifests and hosted action-service templates. `npm create raft-app@latest`
+- [create-raft-app](https://github.com/botiverse/create-raft-app) - Scaffold Raft apps with Login with Raft, agent manifests and hosted action-service templates (`npm create raft-app@latest`).
 - [raft-survey-sample](https://github.com/botiverse/raft-survey-sample) - Sample mini-app: an authenticated survey Cloudflare Worker.
 - [raft-artifact-share-action](https://github.com/botiverse/raft-artifact-share-action) - GitHub Action to publish files to Raft Artifact Share with secretless OIDC.
 
