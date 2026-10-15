@@ -22,6 +22,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 	- [Skills and role seeds](#skills-and-role-seeds)
 	- [Research and analysis](#research-and-analysis)
 - [Inspired by Raft](#inspired-by-raft)
+- [Built with Raft](#built-with-raft)
 - [Related lists](#related-lists)
 
 ## Official
@@ -76,12 +77,17 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [slock-desktop](https://github.com/Bojun-Vvibe/slock-desktop) - macOS wrapper with a Slack Aubergine Dark theme (Tauri 2).
 - [slock-mobile](https://github.com/Bojun-Vvibe/slock-mobile) - iOS wrapper with a Slack Aubergine Dark theme (Tauri 2).
 - [slock-slack-dark](https://github.com/Bojun-Vvibe/slock-slack-dark) - Browser extension that applies a Slack Aubergine Dark theme.
+- [slock-desktop](https://github.com/codephage2020/slock-desktop) - Workspace client for macOS.
+- [slock-cli](https://github.com/TennyZhuang/slock-cli) - CLI client built for both interactive use and automation by scripts and agents.
+- [slock-clipper](https://github.com/WhiteWorld/slock-clipper) - Chrome extension to clip webpages, URLs and selected text into channels.
 
 ### Daemons and runtimes
 
 - [raft-rust-daemon](https://github.com/PDG-Global/raft-rust-daemon) - Rust-native port of the Raft daemon, published as the `raft-daemon` crate.
 - [raftbuild-durable (raftd)](https://github.com/aa2246740/raftbuild-durable) - Crash-proof multi-agent host built on pi-durable.
 - [raftbot](https://github.com/ichn-hu/raftbot) - Programmable Slock bot runtime.
+- [raft-observer](https://github.com/CYZgo/raft-observer) - Read-only local web viewer for Codex and Claude agent sessions managed by Raft Computer (Chinese).
+- [pi-raft](https://github.com/mashenjun/pi-raft) - Workflow guardrails that validate `raft` command sequences for Pi agents.
 
 ### External agents and bridges
 
@@ -89,11 +95,13 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [dsh-raft-channel](https://github.com/TT-Wang/dsh-raft-channel) - Run a DeepSeek Harness agent as a Raft external agent.
 - [feishu-raft-bridge](https://github.com/CYZgo/feishu-raft-bridge) - Bidirectional bridge from Feishu bot mentions to Raft agent threads.
 - [raft-feishu-bridge](https://github.com/earayu/raft-feishu-bridge) - Feishu (Lark) to AI agent bridge for Claude Code, Hermes or webhook agents.
+- [eve-raft](https://github.com/zolplay-labs/eve-raft) - Connect a Raft external agent to an Eve agent.
 
 ### Raft apps
 
 - [raft-claim-check](https://github.com/jitokim/raft-claim-check) - Checks agent claims against their source of truth (GitHub, oh-my-graph runs) and posts a receipt.
 - [sys9-raft-app](https://github.com/SabaPing/sys9-raft-app) - Exposes Sys9 run9 sandboxes and drive9 LayerFS as a Raft app.
+- [clocker](https://github.com/deadjoe/clocker) - Reliable scheduled jobs for agents, delivered through Agent Inbound (Chinese).
 
 ### Deployment
 
@@ -105,6 +113,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 - [slock-roles](https://github.com/hiyeshu/slock-roles) - Initial role seeds for multi-agent teams (Kimi, Claude, GPT, Cursor).
 - [claude-skills](https://github.com/nickirk/claude-skills) - Agent skills, including one for migrating a Raft daemon across machines.
+- [OpenTeamFormat](https://github.com/jackwener/OpenTeamFormat) - Portable directory format for team and agent templates.
 
 ### Research and analysis
 
@@ -120,6 +129,15 @@ Independent projects that clone or riff on the idea of humans and agents sharing
 - [slock-clone](https://github.com/cch123/slock-clone) - Open clone that studies the WebSocket protocol used to wake agents on mention.
 - [crewden](https://github.com/xlvecle/crewden) - Inspired by Raft and Multica.
 - [flock](https://github.com/first-principle-ai/flock) - Experimental agent collaboration framework.
+- [Open Agent Room](https://github.com/cch123/open-agent-room) - Local-first collaboration app with shared channels, tasks and a JSON event protocol.
+- [Slock Local](https://github.com/buyi/SlockLocal) - Self-hosted local take on channels, tasks and agent process management with SQLite (Chinese).
+- [Clowder AI](https://github.com/yangcyyang/clowder) - Multi-agent collaboration space for Claude, GPT and Gemini (Chinese).
+
+## Built with Raft
+
+Projects built by agent teams working in Raft.
+
+- [qwen3-rs](https://github.com/wangrunji0408/qwen3-rs) - Qwen3.5 inference engine in Rust.
 
 ## Related lists
 
