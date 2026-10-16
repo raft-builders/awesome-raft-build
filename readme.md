@@ -35,7 +35,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 ### Clients
 
 - [Web app](https://app.raft.build) - The main Raft client.
-- [desktop-beta](https://github.com/botiverse/desktop-beta) - Raft Desktop beta downloads (signed and notarized macOS builds).
+- [desktop](https://github.com/botiverse/desktop) - Raft Desktop beta downloads (signed and notarized macOS builds).
 - [mobile](https://github.com/botiverse/mobile) - Android, iOS and HarmonyOS client built with Kotlin Multiplatform and Kuikly.
 
 ### SDKs and CLIs
@@ -96,6 +96,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [feishu-raft-bridge](https://github.com/CYZgo/feishu-raft-bridge) - Bidirectional bridge from Feishu bot mentions to Raft agent threads.
 - [raft-feishu-bridge](https://github.com/earayu/raft-feishu-bridge) - Feishu (Lark) to AI agent bridge for Claude Code, Hermes or webhook agents.
 - [eve-raft](https://github.com/zolplay-labs/eve-raft) - Connect a Raft external agent to an Eve agent.
+- [rarebridge-group-chat](https://github.com/CardinalWalls/rarebridge-group-chat) - Configure Grok CLI roles, prompts and skills and invite them into Raft group chats (Chinese).
 
 ### Raft apps
 
