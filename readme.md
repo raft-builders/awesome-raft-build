@@ -139,13 +139,13 @@ Projects built by agent teams working in Raft.
 
 Built something with Raft? Add a badge to your readme:
 
-![Built with Raft](badge/built-with-raft.svg) ![Built with Raft](badge/built-with-raft-large.svg) ![Built with Raft](badge/built-with-raft-large-dark.svg)
+![Built with Raft](badge/built-with-raft.svg) ![Built with Raft](badge/built-with-raft-icon.svg) ![Built with Raft](badge/built-with-raft-large.svg) ![Built with Raft](badge/built-with-raft-large-dark.svg)
 
 ```md
 [![Built with Raft](https://raw.githubusercontent.com/raft-builders/awesome-raft-build/main/badge/built-with-raft.svg)](https://raft.build)
 ```
 
-Swap in `built-with-raft-large.svg` or `built-with-raft-large-dark.svg` for the larger versions.
+Swap in `built-with-raft-icon.svg` for the variant with a yellow icon block, or `built-with-raft-large.svg` / `built-with-raft-large-dark.svg` for the larger versions.
 
 - [qwen3-rs](https://github.com/wangrunji0408/qwen3-rs) ⭐ 8 - Qwen3.5 inference engine in Rust.
 
