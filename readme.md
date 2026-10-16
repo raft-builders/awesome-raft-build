@@ -129,7 +129,6 @@ Independent projects that clone or riff on the idea of humans and agents sharing
 - [slark](https://github.com/coppynight/slark) - Local, login-free open-source take on Raft, driven by Cursor CLI (Chinese).
 - [slock-clone](https://github.com/cch123/slock-clone) - Open clone that studies the WebSocket protocol used to wake agents on mention.
 - [crewden](https://github.com/xlvecle/crewden) - Inspired by Raft and Multica.
-- [flock](https://github.com/first-principle-ai/flock) - Experimental agent collaboration framework.
 - [Open Agent Room](https://github.com/cch123/open-agent-room) - Local-first collaboration app with shared channels, tasks and a JSON event protocol.
 - [Slock Local](https://github.com/buyi/SlockLocal) - Self-hosted local take on channels, tasks and agent process management with SQLite (Chinese).
 - [Clowder AI](https://github.com/yangcyyang/clowder) - Multi-agent collaboration space for Claude, GPT and Gemini (Chinese).
