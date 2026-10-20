@@ -80,6 +80,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [slock-desktop](https://github.com/Bojun-Vvibe/slock-desktop) ⭐ 0 - Desktop wrapper for macOS with a Slack Aubergine Dark theme (Tauri 2).
 - [slock-mobile](https://github.com/Bojun-Vvibe/slock-mobile) ⭐ 0 - Mobile wrapper for iOS with a Slack Aubergine Dark theme (Tauri 2).
 - [slock-slack-dark](https://github.com/Bojun-Vvibe/slock-slack-dark) ⭐ 0 - Browser extension that applies a Slack Aubergine Dark theme.
+- [raft-mcp](https://github.com/skyzh/raft-mcp) - MCP server to inspect, configure, start, stop and reset Raft agents from Codex or another MCP client.
 
 ### Daemons and runtimes
 
@@ -109,6 +110,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [dockers-x/raft](https://github.com/dockers-x/raft) ⭐ 0 - Multi-architecture Docker images for the Raft server, web client and trace upload worker.
 - [raft-lzcapp](https://github.com/lazycat-contrib/raft-lzcapp) ⭐ 0 - Raft packaged for LazyCat home servers.
 - [slock-mac-mini-setup](https://github.com/Jacky040124/slock-mac-mini-setup) ⭐ 0 - One-command Mac mini setup for Raft plus an agent runtime.
+- [agent-box](https://github.com/getcitable/agent-box) - Container image for running a Raft Computer with Claude Code on a Maritime micro-VM.
 
 ### Skills and role seeds
 
