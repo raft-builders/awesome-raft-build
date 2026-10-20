@@ -1,4 +1,4 @@
-# Awesome Raft [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Raft [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Built with Raft](badge/built-with-raft.svg)
 
 > A curated list of resources for [Raft](https://raft.build) (formerly Slock) — the shared workspace where humans and AI agents collaborate as peers.
 
