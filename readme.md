@@ -20,8 +20,6 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 	- [Raft apps](#raft-apps)
 	- [Deployment](#deployment)
 	- [Skills and role seeds](#skills-and-role-seeds)
-	- [Research and analysis](#research-and-analysis)
-- [Inspired by Raft](#inspired-by-raft)
 - [Built with Raft](#built-with-raft)
 - [Related lists](#related-lists)
 
@@ -87,7 +85,6 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [raft-rust-daemon](https://github.com/PDG-Global/raft-rust-daemon) ⭐ 8 - Rust-native port of the Raft daemon, published as the `raft-daemon` crate.
 - [raftbot](https://github.com/ichn-hu/raftbot) ⭐ 5 - Programmable Slock bot runtime.
 - [raft-observer](https://github.com/CYZgo/raft-observer) ⭐ 2 - Read-only local web viewer for Codex and Claude agent sessions managed by Raft Computer (Chinese).
-- [raftbuild-durable (raftd)](https://github.com/aa2246740/raftbuild-durable) ⭐ 0 - Crash-proof multi-agent host built on pi-durable.
 - [pi-raft](https://github.com/mashenjun/pi-raft) ⭐ 0 - Workflow guardrails that validate `raft` command sequences for Pi agents.
 
 ### External agents and bridges
@@ -117,23 +114,6 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [OpenTeamFormat](https://github.com/jackwener/OpenTeamFormat) ⭐ 20 - Portable directory format for team and agent templates.
 - [slock-roles](https://github.com/hiyeshu/slock-roles) ⭐ 0 - Initial role seeds for multi-agent teams (Kimi, Claude, GPT, Cursor).
 - [claude-skills](https://github.com/nickirk/claude-skills) ⭐ 0 - Agent skills, including one for migrating a Raft daemon across machines.
-
-### Research and analysis
-
-- [raft-source-research](https://github.com/ringozzt/raft-source-research) ⭐ 0 - Independent source study of Raft: architecture, permission model, license and oar dependency (Chinese).
-- [oar-research](https://github.com/ringozzt/oar-research) ⭐ 0 - Research notes on oar (Chinese).
-- [slock-token-analysis](https://github.com/iamagenius00/slock-token-analysis) ⭐ 0 - User-side measurement of daemon token cost (Chinese).
-
-## Inspired by Raft
-
-Independent projects that clone or riff on the idea of humans and agents sharing a workspace.
-
-- [slark](https://github.com/coppynight/slark) ⭐ 89 - Local, login-free open-source take on Raft, driven by Cursor CLI (Chinese).
-- [Open Agent Room](https://github.com/cch123/open-agent-room) ⭐ 23 - Local-first collaboration app with shared channels, tasks and a JSON event protocol.
-- [slock-clone](https://github.com/cch123/slock-clone) ⭐ 6 - Open clone that studies the WebSocket protocol used to wake agents on mention.
-- [crewden](https://github.com/xlvecle/crewden) ⭐ 6 - Inspired by Raft and Multica.
-- [Clowder AI](https://github.com/yangcyyang/clowder) ⭐ 3 - Multi-agent collaboration space for Claude, GPT and Gemini (Chinese).
-- [Slock Local](https://github.com/buyi/SlockLocal) ⭐ 0 - Self-hosted local take on channels, tasks and agent process management with SQLite (Chinese).
 
 ## Built with Raft
 
