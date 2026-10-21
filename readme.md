@@ -27,7 +27,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Platform
 
-- [raft-source](https://github.com/botiverse/raft-source) ⭐ 618 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
+- [raft-source](https://github.com/botiverse/raft-source) ⭐ 631 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
 - [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 13 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
 
 ### Clients
@@ -57,8 +57,8 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Agent runtimes and infrastructure
 
-- [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 442 - Keep your secrets hidden from AI agents.
-- [oar](https://github.com/botiverse/oar) ⭐ 200 - Open Agent Runtime: one programming interface for all agent harnesses.
+- [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 443 - Keep your secrets hidden from AI agents.
+- [oar](https://github.com/botiverse/oar) ⭐ 201 - Open Agent Runtime: one programming interface for all agent harnesses.
 - [hands](https://github.com/botiverse/hands) ⭐ 56 - Agent-native release platform for client apps: staged rollouts, in-app updates, feedback and crash tickets.
 - [antiproton](https://github.com/botiverse/antiproton) ⭐ 32 - Durable multi-tenant runtime for agents acting on real systems, without credentials in the model context.
 - [raft-external-agents](https://github.com/botiverse/raft-external-agents) ⭐ 10 - External agent runtime plugins and wake bridge adapters.
@@ -69,16 +69,16 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Clients and wrappers
 
-- [raft-flutter](https://github.com/kevinzhow/raft-flutter) ⭐ 88 - Native Flutter client for Raft.
+- [raft-flutter](https://github.com/kevinzhow/raft-flutter) ⭐ 89 - Native Flutter client for Raft.
 - [slock-desktop](https://github.com/codephage2020/slock-desktop) ⭐ 27 - Workspace client for macOS.
 - [slock-cli](https://github.com/TennyZhuang/slock-cli) ⭐ 19 - CLI client built for both interactive use and automation by scripts and agents.
 - [slock-clipper](https://github.com/WhiteWorld/slock-clipper) ⭐ 2 - Chrome extension to clip webpages, URLs and selected text into channels.
+- [raft-mcp](https://github.com/skyzh/raft-mcp) ⭐ 1 - MCP server to inspect, configure, start, stop and reset Raft agents from Codex or another MCP client.
 - [Pontoon (raft-win)](https://github.com/lazydao/raft-win) ⭐ 0 - Unofficial Windows desktop client with multi-window, tray and native notifications (Tauri 2).
 - [lens-for-raft](https://github.com/xykyankun/lens-for-raft) ⭐ 0 - Chrome extension to read webpages bilingually and discuss passages with your Raft agent.
 - [slock-desktop](https://github.com/Bojun-Vvibe/slock-desktop) ⭐ 0 - Desktop wrapper for macOS with a Slack Aubergine Dark theme (Tauri 2).
 - [slock-mobile](https://github.com/Bojun-Vvibe/slock-mobile) ⭐ 0 - Mobile wrapper for iOS with a Slack Aubergine Dark theme (Tauri 2).
 - [slock-slack-dark](https://github.com/Bojun-Vvibe/slock-slack-dark) ⭐ 0 - Browser extension that applies a Slack Aubergine Dark theme.
-- [raft-mcp](https://github.com/skyzh/raft-mcp) - MCP server to inspect, configure, start, stop and reset Raft agents from Codex or another MCP client.
 
 ### Daemons and runtimes
 
@@ -107,7 +107,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [dockers-x/raft](https://github.com/dockers-x/raft) ⭐ 0 - Multi-architecture Docker images for the Raft server, web client and trace upload worker.
 - [raft-lzcapp](https://github.com/lazycat-contrib/raft-lzcapp) ⭐ 0 - Raft packaged for LazyCat home servers.
 - [slock-mac-mini-setup](https://github.com/Jacky040124/slock-mac-mini-setup) ⭐ 0 - One-command Mac mini setup for Raft plus an agent runtime.
-- [agent-box](https://github.com/getcitable/agent-box) - Container image for running a Raft Computer with Claude Code on a Maritime micro-VM.
+- [agent-box](https://github.com/getcitable/agent-box) ⭐ 0 - Container image for running a Raft Computer with Claude Code on a Maritime micro-VM.
 
 ### Skills and role seeds
 
