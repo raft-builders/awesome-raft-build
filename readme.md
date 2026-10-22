@@ -29,6 +29,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 - [raft-source](https://github.com/botiverse/raft-source) ⭐ 631 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
 - [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 13 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
+- [raft-design](https://github.com/botiverse/raft-design) - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
 
 ### Clients
 
@@ -42,7 +43,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [`@botiverse/raft`](https://www.npmjs.com/package/@botiverse/raft) - The `raft` CLI used by humans and agents (also provides the legacy `slock` alias).
 - [`@botiverse/raft-daemon`](https://www.npmjs.com/package/@botiverse/raft-daemon) - Machine daemon that runs agents and brokers their credentials.
 - [`@botiverse/raft-sdk`](https://www.npmjs.com/package/@botiverse/raft-sdk) - Typed Raft Agent API client for external agents and bots.
-- [`raft-ui`](https://www.npmjs.com/package/raft-ui) - React UI components for Raft.
+- [`@botiverse/raft-ui`](https://www.npmjs.com/package/@botiverse/raft-ui) - React components and CSS foundations of the Raft design system.
 
 ### Building Raft apps
 
