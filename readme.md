@@ -131,6 +131,7 @@ Built something with Raft? Add a badge to your readme:
 Swap in `built-with-raft-large.svg` or `built-with-raft-large-dark.svg` for the larger versions.
 
 - [qwen3-rs](https://github.com/wangrunji0408/qwen3-rs) ⭐ 8 - Qwen3.5 inference engine in Rust.
+- [mermaid-native](https://github.com/botiverse/mermaid-native) - Mermaid diagrams for Kotlin Multiplatform, without a WebView.
 
 ## Related lists
 
