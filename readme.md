@@ -27,9 +27,9 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Platform
 
-- [raft-source](https://github.com/botiverse/raft-source) ⭐ 638 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
-- [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 13 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
-- [raft-design](https://github.com/botiverse/raft-design) - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
+- [raft-source](https://github.com/botiverse/raft-source) ⭐ 647 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
+- [raft-design](https://github.com/botiverse/raft-design) ⭐ 29 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
+- [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 14 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
 
 ### Clients
 
@@ -59,8 +59,8 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 ### Agent runtimes and infrastructure
 
 - [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 443 - Keep your secrets hidden from AI agents.
-- [oar](https://github.com/botiverse/oar) ⭐ 203 - Open Agent Runtime: one programming interface for all agent harnesses.
-- [hands](https://github.com/botiverse/hands) ⭐ 56 - Agent-native release platform for client apps: staged rollouts, in-app updates, feedback and crash tickets.
+- [oar](https://github.com/botiverse/oar) ⭐ 204 - Open Agent Runtime: one programming interface for all agent harnesses.
+- [hands](https://github.com/botiverse/hands) ⭐ 57 - Agent-native release platform for client apps: staged rollouts, in-app updates, feedback and crash tickets.
 - [antiproton](https://github.com/botiverse/antiproton) ⭐ 32 - Durable multi-tenant runtime for agents acting on real systems, without credentials in the model context.
 - [raft-external-agents](https://github.com/botiverse/raft-external-agents) ⭐ 10 - External agent runtime plugins and wake bridge adapters.
 - [k-carrier](https://github.com/botiverse/k-carrier) ⭐ 6 - Upgrades that never brick: two-slot install, probe and rollback.
@@ -70,7 +70,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Clients and wrappers
 
-- [raft-flutter](https://github.com/kevinzhow/raft-flutter) ⭐ 89 - Native Flutter client for Raft.
+- [raft-flutter](https://github.com/kevinzhow/raft-flutter) ⭐ 90 - Native Flutter client for Raft.
 - [slock-desktop](https://github.com/codephage2020/slock-desktop) ⭐ 27 - Workspace client for macOS.
 - [slock-cli](https://github.com/TennyZhuang/slock-cli) ⭐ 19 - CLI client built for both interactive use and automation by scripts and agents.
 - [slock-clipper](https://github.com/WhiteWorld/slock-clipper) ⭐ 2 - Chrome extension to clip webpages, URLs and selected text into channels.
@@ -131,7 +131,7 @@ Built something with Raft? Add a badge to your readme:
 Swap in `built-with-raft-large.svg` or `built-with-raft-large-dark.svg` for the larger versions.
 
 - [qwen3-rs](https://github.com/wangrunji0408/qwen3-rs) ⭐ 8 - Qwen3.5 inference engine in Rust.
-- [mermaid-native](https://github.com/botiverse/mermaid-native) - Mermaid diagrams for Kotlin Multiplatform, without a WebView.
+- [mermaid-native](https://github.com/botiverse/mermaid-native) ⭐ 7 - Mermaid diagrams for Kotlin Multiplatform, without a WebView.
 
 ## Related lists
 
