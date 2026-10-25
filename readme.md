@@ -27,7 +27,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Platform
 
-- [raft-source](https://github.com/botiverse/raft-source) ⭐ 649 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
+- [raft-source](https://github.com/botiverse/raft-source) ⭐ 653 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
 - [raft-design](https://github.com/botiverse/raft-design) ⭐ 30 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
 - [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 14 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
 
