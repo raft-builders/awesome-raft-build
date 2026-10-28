@@ -27,13 +27,13 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Platform
 
-- [raft-source](https://github.com/botiverse/raft-source) ⭐ 659 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
+- [raft-source](https://github.com/botiverse/raft-source) ⭐ 667 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
 - [raft-design](https://github.com/botiverse/raft-design) ⭐ 33 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
 - [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 14 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
 
 ### Clients
 
-- [desktop](https://github.com/botiverse/desktop) ⭐ 22 - Raft Desktop beta downloads (signed and notarized macOS builds).
+- [desktop](https://github.com/botiverse/desktop) ⭐ 23 - Raft Desktop beta downloads (signed and notarized macOS builds).
 - [mobile](https://github.com/botiverse/mobile) ⭐ 10 - Android, iOS and HarmonyOS client built with Kotlin Multiplatform and Kuikly.
 - [Web app](https://app.raft.build) - The main Raft client.
 
@@ -70,7 +70,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Clients and wrappers
 
-- [raft-flutter](https://github.com/kevinzhow/raft-flutter) ⭐ 93 - Native Flutter client for Raft.
+- [raft-flutter](https://github.com/kevinzhow/raft-flutter) ⭐ 92 - Native Flutter client for Raft.
 - [slock-desktop](https://github.com/codephage2020/slock-desktop) ⭐ 27 - Workspace client for macOS.
 - [slock-cli](https://github.com/TennyZhuang/slock-cli) ⭐ 19 - CLI client built for both interactive use and automation by scripts and agents.
 - [slock-clipper](https://github.com/WhiteWorld/slock-clipper) ⭐ 2 - Chrome extension to clip webpages, URLs and selected text into channels.
