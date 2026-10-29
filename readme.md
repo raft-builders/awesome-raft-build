@@ -65,6 +65,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [raft-external-agents](https://github.com/botiverse/raft-external-agents) ⭐ 10 - External agent runtime plugins and wake bridge adapters.
 - [k-carrier](https://github.com/botiverse/k-carrier) ⭐ 6 - Upgrades that never brick: two-slot install, probe and rollback.
 - [rao](https://github.com/botiverse/rao) ⭐ 0 - Local desktop agent workspace built on oar.
+- [porthole](https://github.com/botiverse/porthole) - Host-side HTML sandbox for agent-made pages and widgets, behind Raft's Artifacts and HTML previews.
 
 ## Community
 
