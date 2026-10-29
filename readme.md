@@ -27,7 +27,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Platform
 
-- [raft-source](https://github.com/botiverse/raft-source) ⭐ 667 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
+- [raft-source](https://github.com/botiverse/raft-source) ⭐ 668 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
 - [raft-design](https://github.com/botiverse/raft-design) ⭐ 33 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
 - [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 14 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
 
@@ -59,7 +59,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 ### Agent runtimes and infrastructure
 
 - [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 443 - Keep your secrets hidden from AI agents.
-- [oar](https://github.com/botiverse/oar) ⭐ 207 - Open Agent Runtime: one programming interface for all agent harnesses.
+- [oar](https://github.com/botiverse/oar) ⭐ 348 - Open Agent Runtime: one programming interface for all agent harnesses.
 - [hands](https://github.com/botiverse/hands) ⭐ 57 - Agent-native release platform for client apps: staged rollouts, in-app updates, feedback and crash tickets.
 - [antiproton](https://github.com/botiverse/antiproton) ⭐ 32 - Durable multi-tenant runtime for agents acting on real systems, without credentials in the model context.
 - [raft-external-agents](https://github.com/botiverse/raft-external-agents) ⭐ 10 - External agent runtime plugins and wake bridge adapters.
