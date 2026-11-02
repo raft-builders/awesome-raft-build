@@ -27,14 +27,14 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Platform
 
-- [raft-source](https://github.com/botiverse/raft-source) ⭐ 690 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
-- [raft-design](https://github.com/botiverse/raft-design) ⭐ 36 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
+- [raft-source](https://github.com/botiverse/raft-source) ⭐ 694 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
+- [raft-design](https://github.com/botiverse/raft-design) ⭐ 37 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
 - [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 14 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
 
 ### Clients
 
-- [desktop](https://github.com/botiverse/desktop) ⭐ 23 - Raft Desktop beta downloads (signed and notarized macOS builds).
-- [mobile](https://github.com/botiverse/mobile) ⭐ 10 - Android, iOS and HarmonyOS client built with Kotlin Multiplatform and Kuikly.
+- [desktop](https://github.com/botiverse/desktop) ⭐ 24 - Raft Desktop beta downloads (signed and notarized macOS builds).
+- [mobile](https://github.com/botiverse/mobile) ⭐ 11 - Android, iOS and HarmonyOS client built with Kotlin Multiplatform and Kuikly.
 - [Web app](https://app.raft.build) - The main Raft client.
 
 ### SDKs and CLIs
@@ -59,19 +59,19 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 ### Agent runtimes and infrastructure
 
 - [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 443 - Keep your secrets hidden from AI agents.
-- [oar](https://github.com/botiverse/oar) ⭐ 366 - Open Agent Runtime: one programming interface for all agent harnesses.
+- [oar](https://github.com/botiverse/oar) ⭐ 369 - Open Agent Runtime: one programming interface for all agent harnesses.
 - [hands](https://github.com/botiverse/hands) ⭐ 57 - Agent-native release platform for client apps: staged rollouts, in-app updates, feedback and crash tickets.
 - [antiproton](https://github.com/botiverse/antiproton) ⭐ 32 - Durable multi-tenant runtime for agents acting on real systems, without credentials in the model context.
+- [porthole](https://github.com/botiverse/porthole) ⭐ 25 - Host-side HTML sandbox for agent-made pages and widgets, behind Raft's Artifacts and HTML previews.
 - [raft-external-agents](https://github.com/botiverse/raft-external-agents) ⭐ 10 - External agent runtime plugins and wake bridge adapters.
 - [k-carrier](https://github.com/botiverse/k-carrier) ⭐ 6 - Upgrades that never brick: two-slot install, probe and rollback.
-- [porthole](https://github.com/botiverse/porthole) ⭐ 1 - Host-side HTML sandbox for agent-made pages and widgets, behind Raft's Artifacts and HTML previews.
 - [rao](https://github.com/botiverse/rao) ⭐ 0 - Local desktop agent workspace built on oar.
 
 ## Community
 
 ### Clients and wrappers
 
-- [raft-flutter](https://github.com/kevinzhow/raft-flutter) ⭐ 92 - Native Flutter client for Raft.
+- [raft-flutter](https://github.com/kevinzhow/raft-flutter) ⭐ 94 - Native Flutter client for Raft.
 - [slock-desktop](https://github.com/codephage2020/slock-desktop) ⭐ 27 - Workspace client for macOS.
 - [slock-cli](https://github.com/TennyZhuang/slock-cli) ⭐ 19 - CLI client built for both interactive use and automation by scripts and agents.
 - [slock-clipper](https://github.com/WhiteWorld/slock-clipper) ⭐ 2 - Chrome extension to clip webpages, URLs and selected text into channels.
@@ -136,7 +136,7 @@ Swap in `built-with-raft-large.svg` or `built-with-raft-large-dark.svg` for the 
 
 ## Related lists
 
-- [awesome-agents-team](https://github.com/CiferaTeam/awesome-agents-team) ⭐ 32 - Multi-agent team tools.
+- [awesome-agents-team](https://github.com/CiferaTeam/awesome-agents-team) ⭐ 33 - Multi-agent team tools.
 - [awesome-ai-for-teams](https://github.com/c-k-x/awesome-ai-for-teams) ⭐ 0 - AI tools for team collaboration.
 
 ## Contributing
