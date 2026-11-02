@@ -27,14 +27,14 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Platform
 
-- [raft-source](https://github.com/botiverse/raft-source) ⭐ 694 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
+- [raft-source](https://github.com/botiverse/raft-source) ⭐ 696 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
 - [raft-design](https://github.com/botiverse/raft-design) ⭐ 37 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
 - [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 14 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
 
 ### Clients
 
-- [desktop](https://github.com/botiverse/desktop) ⭐ 24 - Raft Desktop beta downloads (signed and notarized macOS builds).
-- [mobile](https://github.com/botiverse/mobile) ⭐ 11 - Android, iOS and HarmonyOS client built with Kotlin Multiplatform and Kuikly.
+- [desktop](https://github.com/botiverse/desktop) ⭐ 24 - Raft Desktop release downloads for macOS (signed and notarized), Windows and Linux.
+- [mobile](https://github.com/botiverse/mobile) ⭐ 11 - Android and iOS client built with Kotlin and Compose Multiplatform.
 - [Web app](https://app.raft.build) - The main Raft client.
 
 ### SDKs and CLIs
@@ -49,7 +49,6 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 - [create-raft-app](https://github.com/botiverse/create-raft-app) ⭐ 4 - Scaffold Raft apps with Login with Raft, agent manifests and hosted action-service templates (`npm create raft-app@latest`).
 - [raft-artifact-share-action](https://github.com/botiverse/raft-artifact-share-action) ⭐ 1 - GitHub Action to publish files to Raft Artifact Share with secretless OIDC.
-- [raft-survey-sample](https://github.com/botiverse/raft-survey-sample) ⭐ 0 - Sample mini-app: an authenticated survey Cloudflare Worker.
 
 ### Official apps
 
@@ -58,11 +57,11 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Agent runtimes and infrastructure
 
-- [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 443 - Keep your secrets hidden from AI agents.
-- [oar](https://github.com/botiverse/oar) ⭐ 369 - Open Agent Runtime: one programming interface for all agent harnesses.
-- [hands](https://github.com/botiverse/hands) ⭐ 57 - Agent-native release platform for client apps: staged rollouts, in-app updates, feedback and crash tickets.
+- [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 443 - Keep your secrets hidden from AI agents (archived).
+- [oar](https://github.com/botiverse/oar) ⭐ 370 - Open Agent Runtime: one programming interface for all agent harnesses.
+- [hands](https://github.com/botiverse/hands) ⭐ 57 - Agent-native release platform for client apps: draft-first releases, staged rollouts, share pages, in-app updates, feedback and crash tickets.
 - [antiproton](https://github.com/botiverse/antiproton) ⭐ 32 - Durable multi-tenant runtime for agents acting on real systems, without credentials in the model context.
-- [porthole](https://github.com/botiverse/porthole) ⭐ 25 - Host-side HTML sandbox for agent-made pages and widgets, behind Raft's Artifacts and HTML previews.
+- [porthole](https://github.com/botiverse/porthole) ⭐ 27 - Host-side HTML sandbox for agent UIs, with egress hardening and adapters for MCP Apps, inline widgets and artifact pages.
 - [raft-external-agents](https://github.com/botiverse/raft-external-agents) ⭐ 10 - External agent runtime plugins and wake bridge adapters.
 - [k-carrier](https://github.com/botiverse/k-carrier) ⭐ 6 - Upgrades that never brick: two-slot install, probe and rollback.
 - [rao](https://github.com/botiverse/rao) ⭐ 0 - Local desktop agent workspace built on oar.
@@ -75,7 +74,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [slock-desktop](https://github.com/codephage2020/slock-desktop) ⭐ 27 - Workspace client for macOS.
 - [slock-cli](https://github.com/TennyZhuang/slock-cli) ⭐ 19 - CLI client built for both interactive use and automation by scripts and agents.
 - [slock-clipper](https://github.com/WhiteWorld/slock-clipper) ⭐ 2 - Chrome extension to clip webpages, URLs and selected text into channels.
-- [raft-mcp](https://github.com/skyzh/raft-mcp) ⭐ 1 - MCP server to inspect, configure, start, stop and reset Raft agents from Codex or another MCP client.
+- [raft-mcp](https://github.com/skyzh/raft-mcp) ⭐ 1 - MCP server to manage Raft agents: preview configuration changes, control their lifecycle and confirm workspace resets.
 - [Pontoon (raft-win)](https://github.com/lazydao/raft-win) ⭐ 0 - Unofficial Windows desktop client with multi-window, tray and native notifications (Tauri 2).
 - [lens-for-raft](https://github.com/xykyankun/lens-for-raft) ⭐ 0 - Chrome extension to read webpages bilingually and discuss passages with your Raft agent.
 - [slock-desktop](https://github.com/Bojun-Vvibe/slock-desktop) ⭐ 0 - Desktop wrapper for macOS with a Slack Aubergine Dark theme (Tauri 2).
