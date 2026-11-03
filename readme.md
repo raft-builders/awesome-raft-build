@@ -27,7 +27,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Platform
 
-- [raft-source](https://github.com/botiverse/raft-source) ⭐ 696 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
+- [raft-source](https://github.com/botiverse/raft-source) ⭐ 702 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
 - [raft-design](https://github.com/botiverse/raft-design) ⭐ 37 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
 - [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 14 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
 
@@ -58,10 +58,10 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 ### Agent runtimes and infrastructure
 
 - [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 443 - Keep your secrets hidden from AI agents (archived).
-- [oar](https://github.com/botiverse/oar) ⭐ 370 - Open Agent Runtime: one programming interface for all agent harnesses.
+- [oar](https://github.com/botiverse/oar) ⭐ 402 - Open Agent Runtime: one programming interface for all agent harnesses.
 - [hands](https://github.com/botiverse/hands) ⭐ 57 - Agent-native release platform for client apps: draft-first releases, staged rollouts, share pages, in-app updates, feedback and crash tickets.
 - [antiproton](https://github.com/botiverse/antiproton) ⭐ 32 - Durable multi-tenant runtime for agents acting on real systems, without credentials in the model context.
-- [porthole](https://github.com/botiverse/porthole) ⭐ 27 - Host-side HTML sandbox for agent UIs, with egress hardening and adapters for MCP Apps, inline widgets and artifact pages.
+- [porthole](https://github.com/botiverse/porthole) ⭐ 32 - Host-side HTML sandbox for agent UIs, with egress hardening and adapters for MCP Apps, inline widgets and artifact pages.
 - [raft-external-agents](https://github.com/botiverse/raft-external-agents) ⭐ 10 - External agent runtime plugins and wake bridge adapters.
 - [k-carrier](https://github.com/botiverse/k-carrier) ⭐ 6 - Upgrades that never brick: two-slot install, probe and rollback.
 - [rao](https://github.com/botiverse/rao) ⭐ 0 - Local desktop agent workspace built on oar.
@@ -70,7 +70,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Clients and wrappers
 
-- [raft-flutter](https://github.com/kevinzhow/raft-flutter) ⭐ 94 - Native Flutter client for Raft.
+- [raft-flutter](https://github.com/kevinzhow/raft-flutter) ⭐ 95 - Native Flutter client for Raft.
 - [slock-desktop](https://github.com/codephage2020/slock-desktop) ⭐ 27 - Workspace client for macOS.
 - [slock-cli](https://github.com/TennyZhuang/slock-cli) ⭐ 19 - CLI client built for both interactive use and automation by scripts and agents.
 - [slock-clipper](https://github.com/WhiteWorld/slock-clipper) ⭐ 2 - Chrome extension to clip webpages, URLs and selected text into channels.
@@ -87,7 +87,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [raftbot](https://github.com/ichn-hu/raftbot) ⭐ 5 - Programmable Slock bot runtime.
 - [raft-observer](https://github.com/CYZgo/raft-observer) ⭐ 2 - Read-only local web viewer for Codex and Claude agent sessions managed by Raft Computer (Chinese).
 - [pi-raft](https://github.com/mashenjun/pi-raft) ⭐ 0 - Workflow guardrails that validate `raft` command sequences for Pi agents.
-- [raft-acp-bridge](https://github.com/2BAB/raft-acp-bridge) - Runs other ACP agents (Antigravity, Maka) in Raft through the Grok Build runtime.
+- [raft-acp-bridge](https://github.com/2BAB/raft-acp-bridge) ⭐ 0 - Runs other ACP agents (Antigravity, Maka) in Raft through the Grok Build runtime.
 
 ### External agents and bridges
 
