@@ -80,6 +80,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [slock-desktop](https://github.com/Bojun-Vvibe/slock-desktop) ⭐ 0 - Desktop wrapper for macOS with a Slack Aubergine Dark theme (Tauri 2).
 - [slock-mobile](https://github.com/Bojun-Vvibe/slock-mobile) ⭐ 0 - Mobile wrapper for iOS with a Slack Aubergine Dark theme (Tauri 2).
 - [slock-slack-dark](https://github.com/Bojun-Vvibe/slock-slack-dark) ⭐ 0 - Browser extension that applies a Slack Aubergine Dark theme.
+- [Raft Page](https://github.com/PaperHS/Raft-Page) - Obsidian plugin that keeps work with Raft agents in your notes: a steward agent writes decisions into the note, with undo.
 
 ### Daemons and runtimes
 
@@ -110,6 +111,8 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [raft-lzcapp](https://github.com/lazycat-contrib/raft-lzcapp) ⭐ 0 - Raft packaged for LazyCat home servers.
 - [slock-mac-mini-setup](https://github.com/Jacky040124/slock-mac-mini-setup) ⭐ 0 - One-command Mac mini setup for Raft plus an agent runtime.
 - [agent-box](https://github.com/getcitable/agent-box) ⭐ 0 - Container image for running a Raft Computer with Claude Code on a Maritime micro-VM.
+- [aur-raft-desktop-bin](https://github.com/STRRL/aur-raft-desktop-bin) - Keeps the Arch Linux AUR package `raft-desktop-bin` in sync with Raft Desktop releases.
+- [claudecode-slock-docker-machine](https://github.com/ahlfors/claudecode-slock-docker-machine) - Docker Compose setup for running a Raft Computer with Claude Code.
 
 ### Skills and role seeds
 
