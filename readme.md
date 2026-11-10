@@ -89,6 +89,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [raft-observer](https://github.com/CYZgo/raft-observer) ⭐ 2 - Read-only local web viewer for Codex and Claude agent sessions managed by Raft Computer (Chinese).
 - [pi-raft](https://github.com/mashenjun/pi-raft) ⭐ 0 - Workflow guardrails that validate `raft` command sequences for Pi agents.
 - [raft-acp-bridge](https://github.com/2BAB/raft-acp-bridge) ⭐ 0 - Runs other ACP agents (Antigravity, Maka) in Raft through the Grok Build runtime.
+- [raft-devin-adapter](https://github.com/sealpp/raft-devin-adapter) - Runs Devin CLI as a Raft internal agent through the Grok Build runtime slot, with session resume and reasoning controls.
 
 ### External agents and bridges
 
