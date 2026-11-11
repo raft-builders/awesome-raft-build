@@ -105,6 +105,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [sys9-raft-app](https://github.com/SabaPing/sys9-raft-app) ⭐ 1 - Exposes Sys9 run9 sandboxes and drive9 LayerFS as a Raft app.
 - [raft-claim-check](https://github.com/jitokim/raft-claim-check) ⭐ 0 - Checks agent claims against their source of truth (GitHub, oh-my-graph runs) and posts a receipt.
 - [clocker](https://github.com/deadjoe/clocker) ⭐ 0 - Reliable scheduled jobs for agents, delivered through Agent Inbound (Chinese).
+- [raft-review](https://github.com/odysa/raft-review) - Comment on a compiled PDF, Markdown or text and your Raft agent replies and suggests LaTeX or source edits you can accept.
 
 ### Deployment
 
