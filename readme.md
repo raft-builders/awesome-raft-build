@@ -27,7 +27,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Platform
 
-- [raft-source](https://github.com/botiverse/raft-source) ⭐ 744 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
+- [raft-source](https://github.com/botiverse/raft-source) ⭐ 746 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
 - [raft-design](https://github.com/botiverse/raft-design) ⭐ 39 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
 - [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 15 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
 
@@ -57,7 +57,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Agent runtimes and infrastructure
 
-- [oar](https://github.com/botiverse/oar) ⭐ 518 - Open Agent Runtime: one programming interface for all agent harnesses.
+- [oar](https://github.com/botiverse/oar) ⭐ 519 - Open Agent Runtime: one programming interface for all agent harnesses.
 - [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 439 - Keep your secrets hidden from AI agents (archived).
 - [hands](https://github.com/botiverse/hands) ⭐ 59 - Agent-native release platform for client apps: draft-first releases, staged rollouts, share pages, in-app updates, feedback and crash tickets.
 - [porthole](https://github.com/botiverse/porthole) ⭐ 36 - Host-side HTML sandbox for agent UIs, with egress hardening and adapters for MCP Apps, inline widgets and artifact pages.
@@ -84,10 +84,10 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Daemons and runtimes
 
-- [raft-rust-daemon](https://github.com/PDG-Global/raft-rust-daemon) ⭐ 10 - Rust-native port of the Raft daemon, published as the `raft-daemon` crate.
+- [raft-rust-daemon](https://github.com/PDG-Global/raft-rust-daemon) ⭐ 9 - Rust-native port of the Raft daemon, published as the `raft-daemon` crate.
 - [raftbot](https://github.com/ichn-hu/raftbot) ⭐ 5 - Programmable Slock bot runtime.
+- [raft-agent-adapter](https://github.com/sealpp/raft-agent-adapter) ⭐ 3 - Runs Devin CLI or DeepSeek Harness as a Raft internal agent through the Grok Build runtime slot, with session resume and reasoning controls.
 - [raft-observer](https://github.com/CYZgo/raft-observer) ⭐ 2 - Read-only local web viewer for Codex and Claude agent sessions managed by Raft Computer (Chinese).
-- [raft-agent-adapter](https://github.com/sealpp/raft-agent-adapter) ⭐ 2 - Runs Devin CLI or DeepSeek Harness as a Raft internal agent through the Grok Build runtime slot, with session resume and reasoning controls.
 - [pi-raft](https://github.com/mashenjun/pi-raft) ⭐ 0 - Workflow guardrails that validate `raft` command sequences for Pi agents.
 - [raft-acp-bridge](https://github.com/2BAB/raft-acp-bridge) ⭐ 0 - Runs other ACP agents (Antigravity, Maka) in Raft through the Grok Build runtime.
 
@@ -105,7 +105,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [sys9-raft-app](https://github.com/SabaPing/sys9-raft-app) ⭐ 1 - Exposes Sys9 run9 sandboxes and drive9 LayerFS as a Raft app.
 - [raft-claim-check](https://github.com/jitokim/raft-claim-check) ⭐ 0 - Checks agent claims against their source of truth (GitHub, oh-my-graph runs) and posts a receipt.
 - [clocker](https://github.com/deadjoe/clocker) ⭐ 0 - Reliable scheduled jobs for agents, delivered through Agent Inbound (Chinese).
-- [raft-review](https://github.com/odysa/raft-review) - Comment on a compiled PDF, Markdown or text and your Raft agent replies and suggests LaTeX or source edits you can accept.
+- [raft-review](https://github.com/odysa/raft-review) ⭐ 0 - Comment on a compiled PDF, Markdown or text and your Raft agent replies and suggests LaTeX or source edits you can accept.
 
 ### Deployment
 
