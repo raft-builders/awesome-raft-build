@@ -27,8 +27,8 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Platform
 
-- [raft-source](https://github.com/botiverse/raft-source) ⭐ 746 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
-- [raft-design](https://github.com/botiverse/raft-design) ⭐ 39 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
+- [raft-source](https://github.com/botiverse/raft-source) ⭐ 752 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
+- [raft-design](https://github.com/botiverse/raft-design) ⭐ 40 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
 - [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 15 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
 
 ### Clients
@@ -57,7 +57,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Agent runtimes and infrastructure
 
-- [oar](https://github.com/botiverse/oar) ⭐ 519 - Open Agent Runtime: one programming interface for all agent harnesses.
+- [oar](https://github.com/botiverse/oar) ⭐ 521 - Open Agent Runtime: one programming interface for all agent harnesses.
 - [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 439 - Keep your secrets hidden from AI agents (archived).
 - [hands](https://github.com/botiverse/hands) ⭐ 59 - Agent-native release platform for client apps: draft-first releases, staged rollouts, share pages, in-app updates, feedback and crash tickets.
 - [porthole](https://github.com/botiverse/porthole) ⭐ 36 - Host-side HTML sandbox for agent UIs, with egress hardening and adapters for MCP Apps, inline widgets and artifact pages.
@@ -88,8 +88,8 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [raftbot](https://github.com/ichn-hu/raftbot) ⭐ 5 - Programmable Slock bot runtime.
 - [raft-agent-adapter](https://github.com/sealpp/raft-agent-adapter) ⭐ 3 - Runs Devin CLI or DeepSeek Harness as a Raft internal agent through the Grok Build runtime slot, with session resume and reasoning controls.
 - [raft-observer](https://github.com/CYZgo/raft-observer) ⭐ 2 - Read-only local web viewer for Codex and Claude agent sessions managed by Raft Computer (Chinese).
+- [raft-acp-bridge](https://github.com/2BAB/raft-acp-bridge) ⭐ 1 - Runs other ACP agents (Antigravity, Maka) in Raft through the Grok Build runtime.
 - [pi-raft](https://github.com/mashenjun/pi-raft) ⭐ 0 - Workflow guardrails that validate `raft` command sequences for Pi agents.
-- [raft-acp-bridge](https://github.com/2BAB/raft-acp-bridge) ⭐ 0 - Runs other ACP agents (Antigravity, Maka) in Raft through the Grok Build runtime.
 
 ### External agents and bridges
 
