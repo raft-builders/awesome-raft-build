@@ -60,6 +60,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [oar](https://github.com/botiverse/oar) ⭐ 538 - Open Agent Runtime: one programming interface for all agent harnesses.
 - [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 439 - Keep your secrets hidden from AI agents (archived).
 - [hands](https://github.com/botiverse/hands) ⭐ 59 - Agent-native release platform for client apps: draft-first releases, staged rollouts, share pages, in-app updates, feedback and crash tickets.
+- [hands-examples](https://github.com/botiverse/hands-examples) - CI examples and reusable actions for publishing apps to Hands.
 - [porthole](https://github.com/botiverse/porthole) ⭐ 36 - Host-side HTML sandbox for agent UIs, with egress hardening and adapters for MCP Apps, inline widgets and artifact pages.
 - [antiproton](https://github.com/botiverse/antiproton) ⭐ 33 - Durable multi-tenant runtime for agents acting on real systems, without credentials in the model context.
 - [raft-external-agents](https://github.com/botiverse/raft-external-agents) ⭐ 10 - External agent runtime plugins and wake bridge adapters.
@@ -115,6 +116,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [agent-box](https://github.com/getcitable/agent-box) ⭐ 0 - Container image for running a Raft Computer with Claude Code on a Maritime micro-VM.
 - [aur-raft-desktop-bin](https://github.com/STRRL/aur-raft-desktop-bin) ⭐ 0 - Keeps the Arch Linux AUR package `raft-desktop-bin` in sync with Raft Desktop releases.
 - [claudecode-slock-docker-machine](https://github.com/ahlfors/claudecode-slock-docker-machine) ⭐ 0 - Docker Compose setup for running a Raft Computer with Claude Code.
+- [raft-agent-vm](https://github.com/dulao5/raft-agent-vm) - Tart Ubuntu VMs on Apple Silicon Macs running a Raft Computer with Claude Code, several isolated ones per Mac (Chinese).
 
 ### Skills and role seeds
 
