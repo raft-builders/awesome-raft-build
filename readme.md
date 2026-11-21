@@ -89,7 +89,6 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [raftbot](https://github.com/ichn-hu/raftbot) ⭐ 5 - Programmable Slock bot runtime.
 - [raft-agent-adapter](https://github.com/sealpp/raft-agent-adapter) ⭐ 3 - Runs Devin CLI or DeepSeek Harness as a Raft internal agent through the Grok Build runtime slot, with session resume and reasoning controls.
 - [raft-observer](https://github.com/CYZgo/raft-observer) ⭐ 2 - Read-only local web viewer for Codex and Claude agent sessions managed by Raft Computer (Chinese).
-- [raft-acp-bridge](https://github.com/2BAB/raft-acp-bridge) ⭐ 1 - Runs other ACP agents (Antigravity, Maka) in Raft through the Grok Build runtime.
 - [pi-raft](https://github.com/mashenjun/pi-raft) ⭐ 0 - Workflow guardrails that validate `raft` command sequences for Pi agents.
 
 ### External agents and bridges
@@ -144,7 +143,8 @@ Swap in `built-with-raft-large.svg` or `built-with-raft-large-dark.svg` for the 
 ## Related lists
 
 - [awesome-agents-team](https://github.com/CiferaTeam/awesome-agents-team) ⭐ 34 - Multi-agent team tools.
-- [awesome-ai-for-teams](https://github.com/c-k-x/awesome-ai-for-teams) ⭐ 0 - AI tools for team collaboration.
+- [awesome-ai-for-teams](https://github.com/c-k-x/awesome-ai-for-teams) ⭐ 0 - AI tools for teams, each checked against its repository for fit, limits, licence terms and open issues.
+- [awesome-oar](https://github.com/raft-builders/awesome-oar) - Projects built on OAR, the Open Agent Runtime that Raft uses to run agent runtimes.
 
 ## Contributing
 
