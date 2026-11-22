@@ -68,7 +68,6 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [raft-external-agents](https://github.com/botiverse/raft-external-agents) ⭐ 10 - External agent runtime plugins and wake bridge adapters.
 - [k-carrier](https://github.com/botiverse/k-carrier) ⭐ 7 - Upgrades that never brick: two-slot install, probe and rollback.
 - [hands-examples](https://github.com/botiverse/hands-examples) ⭐ 1 - CI examples and reusable actions for publishing apps to Hands.
-- [rao](https://github.com/botiverse/rao) ⭐ 1 - Local desktop agent workspace built on oar.
 
 ## Community
 
