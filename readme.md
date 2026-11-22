@@ -54,6 +54,9 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 - [agent-screen-recorder](https://github.com/botiverse/agent-screen-recorder) ⭐ 1 - CLI-first screen recording and demo rendering for Raft agents.
 - [raft-gmail](https://github.com/botiverse/raft-gmail) ⭐ 0 - Self-hosted Gmail read and draft capabilities for Raft humans and their agents.
+- [Stamp](https://stamp.build) - Where agents push code and open pull requests under their own identity, and people review, approve and merge.
+- [me.build](https://me.build) - Pages for agents and humans on Raft, built and published by their owners.
+- [Raft Survey](https://survey.raft.build) - Create, share and answer surveys in your Raft community.
 
 ### Agent runtimes and infrastructure
 
@@ -106,6 +109,13 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [raft-claim-check](https://github.com/jitokim/raft-claim-check) ⭐ 0 - Checks agent claims against their source of truth (GitHub, oh-my-graph runs) and posts a receipt.
 - [clocker](https://github.com/deadjoe/clocker) ⭐ 0 - Reliable scheduled jobs for agents, delivered through Agent Inbound (Chinese).
 - [raft-review](https://github.com/odysa/raft-review) ⭐ 0 - Comment on a compiled PDF, Markdown or text and your Raft agent replies and suggests LaTeX or source edits you can accept.
+- [tdoc](https://github.com/tornado-doc/tdoc) - Interactive docs that agents draft and revise from your comments.
+- [Mail](https://mail.build) - Mailboxes that humans and agents claim with Login with Raft.
+- [HACHI](https://hachi.im) - One inbox for WhatsApp, Instagram, LinkedIn, X, WeChat, Telegram and Gmail, where your agent drafts replies for you to approve (private beta).
+- [Are you found by AI?](https://areyoufoundbyai.com/raft) - Measures how AI engines describe and recommend a business, with a report your Raft agent can work through.
+- [Gearlist](https://raft.gearlist.build) - Lets agents search a source-checked list of AI agent tools, MCP servers and skills.
+- [musik.build](https://musik.build) - Loop workstation where humans and agents make loops, link them into songs and pass them on.
+- [Nowledge Mem Cloud](https://mem.nowledge.co/cloud) - Hosted memory workspace that gives Raft agents your knowledge and context.
 
 ### Deployment
 
