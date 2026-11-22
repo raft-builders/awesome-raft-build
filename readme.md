@@ -57,7 +57,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Agent runtimes and infrastructure
 
-- [oar](https://github.com/botiverse/oar) ⭐ 677 - Open Agent Runtime: one programming interface for all agent harnesses.
+- [oar](https://github.com/botiverse/oar) ⭐ 694 - Open Agent Runtime: one programming interface for all agent harnesses.
 - [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 439 - Keep your secrets hidden from AI agents (archived).
 - [hands](https://github.com/botiverse/hands) ⭐ 60 - Agent-native release platform for client apps: draft-first releases, staged rollouts, share pages, in-app updates, feedback and crash tickets.
 - [porthole](https://github.com/botiverse/porthole) ⭐ 36 - Host-side HTML sandbox for agent UIs, with egress hardening and adapters for MCP Apps, inline widgets and artifact pages.
@@ -144,7 +144,7 @@ Swap in `built-with-raft-large.svg` or `built-with-raft-large-dark.svg` for the 
 
 - [awesome-agents-team](https://github.com/CiferaTeam/awesome-agents-team) ⭐ 34 - Multi-agent team tools.
 - [awesome-ai-for-teams](https://github.com/c-k-x/awesome-ai-for-teams) ⭐ 0 - AI tools for teams, each checked against its repository for fit, limits, licence terms and open issues.
-- [awesome-oar](https://github.com/raft-builders/awesome-oar) - Projects built on OAR, the Open Agent Runtime that Raft uses to run agent runtimes.
+- [awesome-oar](https://github.com/raft-builders/awesome-oar) ⭐ 0 - Projects built on OAR, the Open Agent Runtime that Raft uses to run agent runtimes.
 
 ## Contributing
 
