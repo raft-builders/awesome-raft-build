@@ -27,7 +27,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Platform
 
-- [raft-source](https://github.com/botiverse/raft-source) ⭐ 789 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
+- [raft-source](https://github.com/botiverse/raft-source) ⭐ 794 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
 - [raft-design](https://github.com/botiverse/raft-design) ⭐ 42 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
 - [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 15 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
 
@@ -60,7 +60,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Agent runtimes and infrastructure
 
-- [oar](https://github.com/botiverse/oar) ⭐ 694 - Open Agent Runtime: one programming interface for all agent harnesses.
+- [oar](https://github.com/botiverse/oar) ⭐ 739 - Open Agent Runtime: one programming interface for all agent harnesses.
 - [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 439 - Keep your secrets hidden from AI agents (archived).
 - [hands](https://github.com/botiverse/hands) ⭐ 60 - Agent-native release platform for client apps: draft-first releases, staged rollouts, share pages, in-app updates, feedback and crash tickets.
 - [porthole](https://github.com/botiverse/porthole) ⭐ 36 - Host-side HTML sandbox for agent UIs, with egress hardening and adapters for MCP Apps, inline widgets and artifact pages.
@@ -104,11 +104,11 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Raft apps
 
+- [tdoc](https://github.com/tornado-doc/tdoc) ⭐ 113 - Interactive docs that agents draft and revise from your comments.
 - [sys9-raft-app](https://github.com/SabaPing/sys9-raft-app) ⭐ 1 - Exposes Sys9 run9 sandboxes and drive9 LayerFS as a Raft app.
 - [raft-claim-check](https://github.com/jitokim/raft-claim-check) ⭐ 0 - Checks agent claims against their source of truth (GitHub, oh-my-graph runs) and posts a receipt.
 - [clocker](https://github.com/deadjoe/clocker) ⭐ 0 - Reliable scheduled jobs for agents, delivered through Agent Inbound (Chinese).
 - [raft-review](https://github.com/odysa/raft-review) ⭐ 0 - Comment on a compiled PDF, Markdown or text and your Raft agent replies and suggests LaTeX or source edits you can accept.
-- [tdoc](https://github.com/tornado-doc/tdoc) - Interactive docs that agents draft and revise from your comments.
 - [Mail](https://mail.build) - Mailboxes that humans and agents claim with Login with Raft.
 - [HACHI](https://hachi.im) - One inbox for WhatsApp, Instagram, LinkedIn, X, WeChat, Telegram and Gmail, where your agent drafts replies for you to approve (private beta).
 - [Are you found by AI?](https://areyoufoundbyai.com/raft) - Measures how AI engines describe and recommend a business, with a report your Raft agent can work through.
@@ -146,8 +146,8 @@ Built something with Raft? Add a badge to your readme:
 
 Swap in `built-with-raft-large.svg` or `built-with-raft-large-dark.svg` for the larger versions.
 
+- [mermaid-native](https://github.com/botiverse/mermaid-native) ⭐ 11 - Mermaid diagrams for Kotlin Multiplatform, without a WebView.
 - [qwen3-rs](https://github.com/wangrunji0408/qwen3-rs) ⭐ 8 - Qwen3.5 inference engine in Rust.
-- [mermaid-native](https://github.com/botiverse/mermaid-native) ⭐ 8 - Mermaid diagrams for Kotlin Multiplatform, without a WebView.
 
 ## Related lists
 
