@@ -125,6 +125,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [aur-raft-desktop-bin](https://github.com/STRRL/aur-raft-desktop-bin) ⭐ 0 - Keeps the Arch Linux AUR package `raft-desktop-bin` in sync with Raft Desktop releases.
 - [claudecode-slock-docker-machine](https://github.com/ahlfors/claudecode-slock-docker-machine) ⭐ 0 - Docker Compose setup for running a Raft Computer with Claude Code.
 - [raft-agent-vm](https://github.com/dulao5/raft-agent-vm) ⭐ 0 - Tart Ubuntu VMs on Apple Silicon Macs running a Raft Computer with Claude Code, several isolated ones per Mac (Chinese).
+- [altare](https://github.com/xiaocang/altare) - Container images for running Raft Computers and a read-only Raft status and task connector on Altare.
 
 ### Skills and role seeds
 
