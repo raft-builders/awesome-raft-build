@@ -27,8 +27,8 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Platform
 
-- [raft-source](https://github.com/botiverse/raft-source) ⭐ 794 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
-- [raft-design](https://github.com/botiverse/raft-design) ⭐ 42 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
+- [raft-source](https://github.com/botiverse/raft-source) ⭐ 804 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
+- [raft-design](https://github.com/botiverse/raft-design) ⭐ 46 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
 - [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 15 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
 
 ### Clients
@@ -60,7 +60,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Agent runtimes and infrastructure
 
-- [oar](https://github.com/botiverse/oar) ⭐ 739 - Open Agent Runtime: one programming interface for all agent harnesses.
+- [oar](https://github.com/botiverse/oar) ⭐ 761 - Open Agent Runtime: one programming interface for all agent harnesses.
 - [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 439 - Keep your secrets hidden from AI agents (archived).
 - [hands](https://github.com/botiverse/hands) ⭐ 60 - Agent-native release platform for client apps: draft-first releases, staged rollouts, share pages, in-app updates, feedback and crash tickets.
 - [porthole](https://github.com/botiverse/porthole) ⭐ 36 - Host-side HTML sandbox for agent UIs, with egress hardening and adapters for MCP Apps, inline widgets and artifact pages.
@@ -73,7 +73,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Clients and wrappers
 
-- [raft-flutter](https://github.com/kevinzhow/raft-flutter) ⭐ 99 - Native Flutter client for Raft.
+- [raft-flutter](https://github.com/kevinzhow/raft-flutter) ⭐ 100 - Native Flutter client for Raft.
 - [slock-desktop](https://github.com/codephage2020/slock-desktop) ⭐ 27 - Workspace client for macOS.
 - [slock-cli](https://github.com/TennyZhuang/slock-cli) ⭐ 19 - CLI client built for both interactive use and automation by scripts and agents.
 - [Raft Page](https://github.com/PaperHS/Raft-Page) ⭐ 4 - Obsidian plugin that keeps work with Raft agents in your notes: a steward agent writes decisions into the note, with undo.
@@ -125,7 +125,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [aur-raft-desktop-bin](https://github.com/STRRL/aur-raft-desktop-bin) ⭐ 0 - Keeps the Arch Linux AUR package `raft-desktop-bin` in sync with Raft Desktop releases.
 - [claudecode-slock-docker-machine](https://github.com/ahlfors/claudecode-slock-docker-machine) ⭐ 0 - Docker Compose setup for running a Raft Computer with Claude Code.
 - [raft-agent-vm](https://github.com/dulao5/raft-agent-vm) ⭐ 0 - Tart Ubuntu VMs on Apple Silicon Macs running a Raft Computer with Claude Code, several isolated ones per Mac (Chinese).
-- [altare](https://github.com/xiaocang/altare) - Container images for running Raft Computers and a read-only Raft status and task connector on Altare.
+- [altare](https://github.com/xiaocang/altare) ⭐ 0 - Container images for running Raft Computers and a read-only Raft status and task connector on Altare.
 
 ### Skills and role seeds
 
@@ -147,14 +147,14 @@ Built something with Raft? Add a badge to your readme:
 
 Swap in `built-with-raft-large.svg` or `built-with-raft-large-dark.svg` for the larger versions.
 
-- [mermaid-native](https://github.com/botiverse/mermaid-native) ⭐ 11 - Mermaid diagrams for Kotlin Multiplatform, without a WebView.
+- [mermaid-native](https://github.com/botiverse/mermaid-native) ⭐ 12 - Mermaid diagrams for Kotlin Multiplatform, without a WebView.
 - [qwen3-rs](https://github.com/wangrunji0408/qwen3-rs) ⭐ 8 - Qwen3.5 inference engine in Rust.
 
 ## Related lists
 
 - [awesome-agents-team](https://github.com/CiferaTeam/awesome-agents-team) ⭐ 34 - Multi-agent team tools.
+- [awesome-oar](https://github.com/raft-builders/awesome-oar) ⭐ 1 - Projects built on OAR, the Open Agent Runtime that Raft uses to run agent runtimes.
 - [awesome-ai-for-teams](https://github.com/c-k-x/awesome-ai-for-teams) ⭐ 0 - AI tools for teams, each checked against its repository for fit, limits, licence terms and open issues.
-- [awesome-oar](https://github.com/raft-builders/awesome-oar) ⭐ 0 - Projects built on OAR, the Open Agent Runtime that Raft uses to run agent runtimes.
 
 ## Contributing
 
