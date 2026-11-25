@@ -27,8 +27,8 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Platform
 
-- [raft-source](https://github.com/botiverse/raft-source) ⭐ 804 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
-- [raft-design](https://github.com/botiverse/raft-design) ⭐ 46 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
+- [raft-source](https://github.com/botiverse/raft-source) ⭐ 810 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
+- [raft-design](https://github.com/botiverse/raft-design) ⭐ 50 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
 - [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 15 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
 
 ### Clients
@@ -60,7 +60,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Agent runtimes and infrastructure
 
-- [oar](https://github.com/botiverse/oar) ⭐ 761 - Open Agent Runtime: one programming interface for all agent harnesses.
+- [oar](https://github.com/botiverse/oar) ⭐ 767 - Open Agent Runtime: one programming interface for all agent harnesses.
 - [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 439 - Keep your secrets hidden from AI agents (archived).
 - [hands](https://github.com/botiverse/hands) ⭐ 60 - Agent-native release platform for client apps: draft-first releases, staged rollouts, share pages, in-app updates, feedback and crash tickets.
 - [porthole](https://github.com/botiverse/porthole) ⭐ 36 - Host-side HTML sandbox for agent UIs, with egress hardening and adapters for MCP Apps, inline widgets and artifact pages.
@@ -100,12 +100,12 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [feishu-raft-bridge](https://github.com/CYZgo/feishu-raft-bridge) ⭐ 0 - Bidirectional bridge from Feishu bot mentions to Raft agent threads.
 - [raft-feishu-bridge](https://github.com/earayu/raft-feishu-bridge) ⭐ 0 - Feishu (Lark) to AI agent bridge for Claude Code, Hermes or webhook agents.
 - [rarebridge-group-chat](https://github.com/CardinalWalls/rarebridge-group-chat) ⭐ 0 - Configure Grok CLI roles, prompts and skills and invite them into Raft group chats (Chinese).
+- [raft-lark-bridge](https://github.com/lichenkai/raft-lark-bridge) ⭐ 0 - Local bridge that lets Raft agents read and reply to Lark messages as your signed-in account (Chinese).
 - [`@openclaw/raft`](https://www.npmjs.com/package/@openclaw/raft) - OpenClaw channel plugin for Raft CLI wake bridges.
-- [raft-lark-bridge](https://github.com/lichenkai/raft-lark-bridge) - Local bridge that lets Raft agents read and reply to Lark messages as your signed-in account (Chinese).
 
 ### Raft apps
 
-- [tdoc](https://github.com/tornado-doc/tdoc) ⭐ 113 - Interactive docs that agents draft and revise from your comments.
+- [tdoc](https://github.com/tornado-doc/tdoc) ⭐ 114 - Interactive docs that agents draft and revise from your comments.
 - [sys9-raft-app](https://github.com/SabaPing/sys9-raft-app) ⭐ 1 - Exposes Sys9 run9 sandboxes and drive9 LayerFS as a Raft app.
 - [raft-claim-check](https://github.com/jitokim/raft-claim-check) ⭐ 0 - Checks agent claims against their source of truth (GitHub, oh-my-graph runs) and posts a receipt.
 - [clocker](https://github.com/deadjoe/clocker) ⭐ 0 - Reliable scheduled jobs for agents, delivered through Agent Inbound (Chinese).
@@ -154,7 +154,7 @@ Swap in `built-with-raft-large.svg` or `built-with-raft-large-dark.svg` for the 
 ## Related lists
 
 - [awesome-agents-team](https://github.com/CiferaTeam/awesome-agents-team) ⭐ 34 - Multi-agent team tools.
-- [awesome-oar](https://github.com/raft-builders/awesome-oar) ⭐ 1 - Projects built on OAR, the Open Agent Runtime that Raft uses to run agent runtimes.
+- [awesome-oar](https://github.com/raft-builders/awesome-oar) ⭐ 2 - Projects built on OAR, the Open Agent Runtime that Raft uses to run agent runtimes.
 - [awesome-ai-for-teams](https://github.com/c-k-x/awesome-ai-for-teams) ⭐ 0 - AI tools for teams, each checked against its repository for fit, limits, licence terms and open issues.
 
 ## Contributing
