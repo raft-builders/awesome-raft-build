@@ -101,6 +101,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [raft-feishu-bridge](https://github.com/earayu/raft-feishu-bridge) ⭐ 0 - Feishu (Lark) to AI agent bridge for Claude Code, Hermes or webhook agents.
 - [rarebridge-group-chat](https://github.com/CardinalWalls/rarebridge-group-chat) ⭐ 0 - Configure Grok CLI roles, prompts and skills and invite them into Raft group chats (Chinese).
 - [raft-lark-bridge](https://github.com/lichenkai/raft-lark-bridge) ⭐ 0 - Local bridge that lets Raft agents read and reply to Lark messages as your signed-in account (Chinese).
+- [dingtalk-raft-bridge](https://github.com/SherlockShemol/dingtalk-raft-bridge) - Bidirectional bridge from DingTalk robot mentions to Raft agent threads, over Stream mode so no public address is needed.
 - [`@openclaw/raft`](https://www.npmjs.com/package/@openclaw/raft) - OpenClaw channel plugin for Raft CLI wake bridges.
 
 ### Raft apps
