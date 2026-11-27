@@ -27,13 +27,13 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Platform
 
-- [raft-source](https://github.com/botiverse/raft-source) ⭐ 812 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
-- [raft-design](https://github.com/botiverse/raft-design) ⭐ 52 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
-- [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 15 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
+- [raft-source](https://github.com/botiverse/raft-source) ⭐ 816 - Source-available release mirror of the Raft server, web client, CLI, daemon and SDK (FSL-1.1-ALv2).
+- [raft-design](https://github.com/botiverse/raft-design) ⭐ 53 - Raft's design system: guidelines, design tokens and raft-ui, documented at [raft-design.botiverse.build](https://raft-design.botiverse.build).
+- [raft-docs](https://github.com/botiverse/raft-docs) ⭐ 16 - Public documentation site, served at [docs.raft.build](https://docs.raft.build).
 
 ### Clients
 
-- [desktop](https://github.com/botiverse/desktop) ⭐ 25 - Raft Desktop release downloads for macOS (signed and notarized), Windows and Linux.
+- [desktop](https://github.com/botiverse/desktop) ⭐ 26 - Raft Desktop release downloads for macOS (signed and notarized), Windows and Linux.
 - [mobile](https://github.com/botiverse/mobile) ⭐ 13 - Android and iOS client built with Kotlin and Compose Multiplatform.
 - [Web app](https://app.raft.build) - The main Raft client.
 
@@ -60,9 +60,9 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 
 ### Agent runtimes and infrastructure
 
-- [oar](https://github.com/botiverse/oar) ⭐ 777 - Open Agent Runtime: one programming interface for all agent harnesses.
+- [oar](https://github.com/botiverse/oar) ⭐ 785 - Open Agent Runtime: one programming interface for all agent harnesses.
 - [agent-vault](https://github.com/botiverse/agent-vault) ⭐ 440 - Keep your secrets hidden from AI agents (archived).
-- [hands](https://github.com/botiverse/hands) ⭐ 60 - Agent-native release platform for client apps: draft-first releases, staged rollouts, share pages, in-app updates, feedback and crash tickets.
+- [hands](https://github.com/botiverse/hands) ⭐ 61 - Agent-native release platform for client apps: draft-first releases, staged rollouts, share pages, in-app updates, feedback and crash tickets.
 - [porthole](https://github.com/botiverse/porthole) ⭐ 36 - Host-side HTML sandbox for agent UIs, with egress hardening and adapters for MCP Apps, inline widgets and artifact pages.
 - [antiproton](https://github.com/botiverse/antiproton) ⭐ 34 - Durable multi-tenant runtime for agents acting on real systems, without credentials in the model context.
 - [raft-external-agents](https://github.com/botiverse/raft-external-agents) ⭐ 10 - External agent runtime plugins and wake bridge adapters.
@@ -84,7 +84,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [slock-desktop](https://github.com/Bojun-Vvibe/slock-desktop) ⭐ 0 - Desktop wrapper for macOS with a Slack Aubergine Dark theme (Tauri 2).
 - [slock-mobile](https://github.com/Bojun-Vvibe/slock-mobile) ⭐ 0 - Mobile wrapper for iOS with a Slack Aubergine Dark theme (Tauri 2).
 - [slock-slack-dark](https://github.com/Bojun-Vvibe/slock-slack-dark) ⭐ 0 - Browser extension that applies a Slack Aubergine Dark theme.
-- [raft-cat-themes](https://github.com/SherlockShemol/raft-cat-themes) - Ginger Cat and Chinese Tabby pixel cat themes for the web app, as Stylus user styles or browser extensions.
+- [raft-cat-themes](https://github.com/SherlockShemol/raft-cat-themes) ⭐ 0 - Ginger Cat and Chinese Tabby pixel cat themes for the web app, as Stylus user styles or browser extensions.
 
 ### Daemons and runtimes
 
@@ -102,7 +102,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [raft-feishu-bridge](https://github.com/earayu/raft-feishu-bridge) ⭐ 0 - Feishu (Lark) to AI agent bridge for Claude Code, Hermes or webhook agents.
 - [rarebridge-group-chat](https://github.com/CardinalWalls/rarebridge-group-chat) ⭐ 0 - Configure Grok CLI roles, prompts and skills and invite them into Raft group chats (Chinese).
 - [raft-lark-bridge](https://github.com/lichenkai/raft-lark-bridge) ⭐ 0 - Local bridge that lets Raft agents read and reply to Lark messages as your signed-in account (Chinese).
-- [dingtalk-raft-bridge](https://github.com/SherlockShemol/dingtalk-raft-bridge) - Bidirectional bridge from DingTalk robot mentions to Raft agent threads, over Stream mode so no public address is needed.
+- [dingtalk-raft-bridge](https://github.com/SherlockShemol/dingtalk-raft-bridge) ⭐ 0 - Bidirectional bridge from DingTalk robot mentions to Raft agent threads, over Stream mode so no public address is needed.
 - [`@openclaw/raft`](https://www.npmjs.com/package/@openclaw/raft) - OpenClaw channel plugin for Raft CLI wake bridges.
 
 ### Raft apps
@@ -156,7 +156,7 @@ Swap in `built-with-raft-large.svg` or `built-with-raft-large-dark.svg` for the 
 ## Related lists
 
 - [awesome-agents-team](https://github.com/CiferaTeam/awesome-agents-team) ⭐ 34 - Multi-agent team tools.
-- [awesome-oar](https://github.com/raft-builders/awesome-oar) ⭐ 3 - Projects built on OAR, the Open Agent Runtime that Raft uses to run agent runtimes.
+- [awesome-oar](https://github.com/raft-builders/awesome-oar) ⭐ 4 - Projects built on OAR, the Open Agent Runtime that Raft uses to run agent runtimes.
 - [awesome-ai-for-teams](https://github.com/c-k-x/awesome-ai-for-teams) ⭐ 0 - AI tools for teams, each checked against its repository for fit, limits, licence terms and open issues.
 
 ## Contributing
