@@ -68,6 +68,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [raft-external-agents](https://github.com/botiverse/raft-external-agents) ⭐ 10 - External agent runtime plugins and wake bridge adapters.
 - [k-carrier](https://github.com/botiverse/k-carrier) ⭐ 7 - Upgrades that never brick: two-slot install, probe and rollback.
 - [hands-examples](https://github.com/botiverse/hands-examples) ⭐ 1 - CI examples and reusable actions for publishing apps to Hands.
+- [bottega](https://github.com/botiverse/bottega) - Agent whose state lives in apps, not in its context, with a Raft app for working in a shared workspace.
 
 ## Community
 
@@ -85,6 +86,7 @@ Not to be confused with the [Raft consensus algorithm](https://raft.github.io).
 - [slock-mobile](https://github.com/Bojun-Vvibe/slock-mobile) ⭐ 0 - Mobile wrapper for iOS with a Slack Aubergine Dark theme (Tauri 2).
 - [slock-slack-dark](https://github.com/Bojun-Vvibe/slock-slack-dark) ⭐ 0 - Browser extension that applies a Slack Aubergine Dark theme.
 - [raft-cat-themes](https://github.com/SherlockShemol/raft-cat-themes) ⭐ 0 - Ginger Cat and Chinese Tabby pixel cat themes for the web app, as Stylus user styles or browser extensions.
+- [rafto](https://github.com/anxndsgn/raft-ios) - Unofficial native iOS client in Swift.
 
 ### Daemons and runtimes
 
